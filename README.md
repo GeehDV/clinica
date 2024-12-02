@@ -40,5 +40,5 @@ Acesse o site e confira! = https://geehdv.github.io/Heal-Web-Site/
 https://www.figma.com/design/u7KPriC2Y1IHbMDEF3EtGy/Ger.Pacientes?node-id=0-1&node-type=canvas&t=g1sUYxCfKiQ4Fydh-0
 
 Nome dos participantes do projeto:
-- Geovanna Amorim Silva
-- Pedro Henrique da Silva
+- Geovanna Amorim Silva = RA: 12523212524
+- Pedro Henrique da Silva = RA: 1252327356
